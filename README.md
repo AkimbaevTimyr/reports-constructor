@@ -1,27 +1,6 @@
-# report-constructor
-DEMO - https://doter123.github.io/report-constructor-for-view/
+# Report Constructor
 
-Скачать отчёт можно только на официальном сайте IMAS, для которого он был создан!
-
-## Project setup
 ```
-npm install
+Проект для конструирования отчета в формате pdf, word, power point, exel
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
